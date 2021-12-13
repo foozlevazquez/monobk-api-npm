@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "monobk-api-npm",
   "version": "",
-  "description": "OpenAPI client for ",
-  "author": "OpenAPI-Generator Contributors",
+  "description": "OpenAPI client for monobk",
+  "author": "ivan@ivanvazquez.com",
   "keywords": [
     "axios",
     "typescript",
